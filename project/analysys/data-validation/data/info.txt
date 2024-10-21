@@ -1,0 +1,12 @@
+People's diabetes
+Dataset of people's diabetes based on the height, weight and age of each person
+
+https://www.kaggle.com/datasets/peimandaii/dataset-of-peoples-diabetes
+
+Description
+
+Database of diabetic patients.
+
+It includes data from different people.
+
+Including characteristics = gender, age, height, weight, blood sugar, blood pressure, type of diabetes, incidence of complications and family history
